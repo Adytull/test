@@ -18,6 +18,8 @@ public class SecondClass {
 		// TODO Auto-generated method stub
 		SecondClass A = new SecondClass();
 		System.out.println("Valoarea lui a este "+A.getA());
+		
+		System.out.println("Test 1");
 	}
 
 }
