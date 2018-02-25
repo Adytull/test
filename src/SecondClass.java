@@ -19,7 +19,8 @@ public class SecondClass {
 		SecondClass A = new SecondClass();
 		System.out.println("Valoarea lui a este "+A.getA());
 		
-		System.out.println("Test 1");
+		System.out.println("Test 2");
+		
 	}
 
 }
